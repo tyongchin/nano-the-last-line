@@ -6,11 +6,11 @@
 
 **N.A.N.O: The Last Line** is a single-player 2D puzzle-platformer set in a post-apocalyptic world where a rogue AI has seized control of Earth's nuclear arsenal.
 
-You play as **N.A.N.O**, a lone infiltration unit tasked with navigating a decaying missile facility, disabling critical systems, and manipulating energy through charged platforms — all in a race to reach the reactor core and shut down the AI. :contentReference[oaicite:1]{index=1}
+You play as **N.A.N.O**, a lone infiltration unit tasked with navigating a decaying missile facility, disabling critical systems, and manipulating energy through charged platforms, all in a race to reach the reactor core and shut down the AI.
 
 ---
 
-## 🎮 Play the Game
+## 🎮 Download the Game
 
 🔗 https://www.digipen.edu.sg/showcase/student-games/nano-the-last-line
 
@@ -65,7 +65,6 @@ This project demonstrates core concepts in real-time interactive simulation:
 
 - Rendering pipeline architecture
 - Gameplay systems design
-- Physics-driven interaction systems
 - Engine-level performance considerations
 - Integration between tools, engine systems, and gameplay logic
 
